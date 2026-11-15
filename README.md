@@ -192,9 +192,9 @@ http://127.0.0.1:8000
 
 ## Author
 
-**Nova**
+**Hiten Singh Sisodiya**
 
-Computer Science & Engineering Student  
+First-Year B.Tech Computer Science & Engineering Student  
 Interested in Artificial Intelligence, Machine Learning, and AI Agent Development.
 
 ---
